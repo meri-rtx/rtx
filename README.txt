@@ -10,3 +10,5 @@ Dev Env
 
 #2021-04-15
     몽고DB설치(윈도우) : https://m.blog.naver.com/wideeyed/221815886721
+    pip install pymongo
+    CRUD 해보기 : https://firework-ham.tistory.com/68
