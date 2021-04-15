@@ -13,9 +13,9 @@ test_str = "쿠팡배달 메리츠화재와 어린이보험과 긴급출동 삼�
 
 def okt_test():
     okt = Okt()
-    # print(okt.morphs(test_str))
+    print(okt.morphs(test_str))
     print(okt.nouns(test_str))
-    # print(okt.pos(test_str))
+    print(okt.pos(test_str))
 
 
 
