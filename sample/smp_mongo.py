@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-from pymongo.cursor import CursorType
 
 
 if __name__=="__main__":
