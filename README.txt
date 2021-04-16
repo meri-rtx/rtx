@@ -1,12 +1,13 @@
 #2021-04-13 Start
 [Windsow 기준]
-Dev Env
+개발 환경
     기본 설치
     git - 형상관리
     python3.6.8 - 윈도우즈용 설치
     jdk1.8 - 자연어분석(konlp) 시에 필요함
     pycharm - 개발 IDE
 
+    git clone https://github.com/meri-rtx/rtx.git rtx
 #2021-04-14
     pycharm git token key for git push : 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
     setting -> python interpreter -> 가상환경 설치 추천
