@@ -14,6 +14,7 @@
     pip install --upgrade pip
     pip install konlpy
     sample/smp_nlp.py 실행 오류시 참고 : https://needjarvis.tistory.com/642
+    pip install setup_pkg/JPype~.whl
 
 #2021-04-15
     몽고DB설치(윈도우) : https://m.blog.naver.com/wideeyed/221815886721
