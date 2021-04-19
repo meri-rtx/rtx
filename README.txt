@@ -9,7 +9,6 @@
 
     git clone https://github.com/meri-rtx/rtx.git rtx
 #2021-04-14
-    pycharm git token key for git push : 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
     setting -> python interpreter -> 가상환경 설치 추천
     pip install --upgrade pip
     pip install konlpy
