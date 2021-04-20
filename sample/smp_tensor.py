@@ -11,6 +11,7 @@ __date__ = "creation 2021-02-26"
 # pip install nltk
 # pip install pandas
 # pip install matplotlib
+# pip install pandas-profiling
 
 import tensorflow as tf
 import gensim
@@ -18,6 +19,7 @@ import sklearn
 import nltk
 import pandas as pd
 import matplotlib as mpl
+import pandas_profiling
 
 if __name__ == "__main__":
 
@@ -29,3 +31,4 @@ if __name__ == "__main__":
     # nltk.download()
     print("pd.version :", pd.__version__)
     print("mpl.version :", mpl.__version__)
+    print("pandas_profiling.version :", pandas_profiling.__version__)
