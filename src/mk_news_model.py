@@ -149,3 +149,4 @@ if __name__ == "__main__":
     loaded_model = make_model()
 
     sentiment_predict('이 영화 핵노잼 ㅠㅠ')
+    sentiment_predict('이 영화 너무 추천합니다,')

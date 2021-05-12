@@ -87,4 +87,9 @@ if __name__ == "__main__":
     df_sw, stopwords = load_stopwords()
     tokenizer = load_token()
     loaded_model = load_model("../resource/news/best_model.h5")
-    main()
+    #main()
+
+    sentiment_predict('이 영화 핵노잼 ㅠㅠ')
+    sentiment_predict('이 영화 너무 추천합니다,')
+    sentiment_predict('이 영화 추천하지 않습니다.')
+    sentiment_predict('이 영화 감동으로 눈물이 납니다.')
